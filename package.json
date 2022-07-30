@@ -1,0 +1,27 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "notes app using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhsing24/notes_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhsing24/notes_app/issues"
+  },
+  "homepage": "https://github.com/jhsing24/notes_app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
